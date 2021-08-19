@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #333;
+  color: white;
+  font-family: sans-serif;
+}
+
+form {
+  width: 500px;
+  margin: auto;
+  background: #555;
+  padding: 20px;
+  margin-top: 20px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+label, input,select {
+  width: 100%;
+  display: block;
+  font-size: 1.2em;
+}
+input, select {
+  padding: 5px;
+  margin-bottom: 20px;
+}
+input[type="submit"] {
+  width: 30%;
+  margin: auto;
+  background: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.pull-right{
+	width: 500px;
+  margin: auto;
+  
+	
+	
+}
+
+
+
+
+.boton{
+	background: rgb(255, 195, 0 );
+  padding: 20px;
+  margin-top: 20px;
+  
+  border-radius: 4px;
+	text-decoration:none;
+	color: black;
+	font-size: 25px;
+	
+}
+
+.boton2{
+	background: rgb(228, 61, 25 );
+  padding: 20px;
+  margin-top: 20px;
+  
+  border-radius: 4px;
+	text-decoration:none;
+	color: black;
+	font-size: 25px;
+	
+}
+
+.back{
+	background: rgb(228, 61, 25 );
+  padding: 5px;
+  padding-left:30px;
+  padding-right:30px;
+  border: 25px;
+  position: relative;
+  top: 50px;
+  
+  border-radius: 4px;
+	text-decoration:none;
+	color: black;
+	font-size: 15px;
+	
+}	
+
+.Editar{
+	
+	background:rgb(50, 132, 60);
+  padding: 2px;
+  padding-left:30px;
+  padding-right:30px;
+  border: 20px;
+  
+  border-radius: 4px;
+	text-decoration:none;
+	color: black;
+	font-size: 15px;
+	
+}
+
+
+.Eliminar{
+	
+	background: rgb(228, 61, 25 );
+  padding: 2px;
+  padding-left:30px;
+  padding-right:30px;
+  border: 20px;
+  
+  border-radius: 4px;
+	text-decoration:none;
+	color: black;
+	font-size: 15px;
+	
+}
+
+.tabledeleteedit {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.tabledeleteedit thead tr {
+    background-color: rgba(255, 195, 0 );
+    color: black;
+    text-align: left;
+}
+
+.tabledeleteedit th,
+.tabledeleteedit td {
+    padding: 12px 15px;
+}
+
+
+
+
+
+
+
+
+
+	
+}
+
